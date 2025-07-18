@@ -4,6 +4,8 @@
 
 ##
 
+### Linguagens que já usei:
+
 <div style="display: inline_block"><br>       
   <img align="center" alt="Kaique-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">   
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
@@ -12,6 +14,7 @@
 
 ##
 
+### Contato:
 <div> 
  <a href="https://instagram.com/kai._sff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/kai_sff" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

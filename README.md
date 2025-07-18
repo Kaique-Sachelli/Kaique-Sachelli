@@ -25,11 +25,11 @@
 
 ## 🐍 Snake eating my contributions
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Kaique-Sachelli/Kaique-Sachelli/output/github-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Kaique-Sachelli/output/github-snake.svg)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Kaique-Sachelli/Kaique-Sachelli/output/github-snake-dark.svg?palette=github-dark)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Kaique-Sachelli/output/github-snake-dark.svg?palette=github-dark)
 
-![GitHub Snake Ocean](https://raw.githubusercontent.com/Kaique-Sachelli/Kaique-Sachelli/output/ocean.gif)
+![GitHub Snake Ocean](https://raw.githubusercontent.com/Kaique-Sachelli/output/ocean.gif)
 
             
 

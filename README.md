@@ -21,6 +21,9 @@
  <a href = "mailto:kaique.safefe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div align-center>
+  <img src="https://raw.githubusercontent.com/Kaique-Sachelli/Kaique-Sachelli/output/snake.svg" alt="Snake animation" />
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

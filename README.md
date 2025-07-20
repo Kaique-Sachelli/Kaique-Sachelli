@@ -10,6 +10,7 @@
   <img align="center" alt="Kaique-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">   
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Kaique-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="right" alt="gif" src="https://discord.com/channels/1352254664195838032/1352254664195838035/1396503774633132263"> 
 </div>
 
 ##
@@ -21,9 +22,11 @@
  <a href = "mailto:kaique.safefe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<!-- Cobrinha -->
 <div align-center>
   <img src="https://raw.githubusercontent.com/Kaique-Sachelli/Kaique-Sachelli/output/snake.svg" alt="Snake animation" />
 </div>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

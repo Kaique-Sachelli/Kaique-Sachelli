@@ -21,22 +21,6 @@
  <a href = "mailto:kaique.safefe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/Kaique-Sachelli/Kaique-Sachelli/blob/output/github-contribution-grid-snake.gif)
-
-## 🐍 Snake eating my contributions
-
-![GitHub Snake Light](https://raw.githubusercontent.com/Kaique-Sachelli/output/github-snake.svg)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/Kaique-Sachelli/output/github-snake-dark.svg?palette=github-dark)
-
-![GitHub Snake Ocean](https://raw.githubusercontent.com/Kaique-Sachelli/output/ocean.gif)
-
-            
-
-
-
-
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
